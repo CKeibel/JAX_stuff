@@ -1,2 +1,2 @@
 # JAX_stuff
-trying some JAX stuff
+trying some [JAX](https://github.com/google/jax) stuff
